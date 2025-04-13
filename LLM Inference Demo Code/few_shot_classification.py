@@ -93,7 +93,7 @@ df = df.iloc[0:10]
 df = data_preparation(df)
 
 # replace with your huggingface token
-# login(token="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")
+login(token="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")
 
 label = []
 reason = []
